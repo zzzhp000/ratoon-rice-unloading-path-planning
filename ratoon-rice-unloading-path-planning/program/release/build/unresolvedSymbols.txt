@@ -1,0 +1,2 @@
+Path	Symbol	Reason
+LoginApp\LoginApp.mlapp	syms	undeployable
